@@ -1,0 +1,23 @@
+.transactionHistory {
+    background-color: #b7bf9c;
+    border-radius: 16px;
+    box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    width: 400px;
+    padding: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+}
+
+.title {
+    text-transform: uppercase;
+    padding: 24px;
+}
+
+.row {
+    background-color: #d6ddbe;
+}
+
+.type {
+    text-transform: capitalize;
+}

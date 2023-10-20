@@ -18,8 +18,39 @@
 .stats {
     list-style: none;
     display: flex;
+    gap: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: space-between;
 }
 
 .statsItem {
-    
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 69px;
+}
+
+.name {
+    text-align: center;
+}
+
+.tag {
+    text-align: center;
+}
+
+.location {
+    text-align: center;
+}
+
+.label {
+ text-align: center;
+ color: #584c52;
+}
+
+.quantity {
+margin-left: auto;
+margin-right: auto;
+color: #695b62
+;
 }
