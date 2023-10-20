@@ -1,0 +1,19 @@
+.title {
+    text-transform: uppercase;
+}
+
+.item {
+    list-style: none;
+    width: 120px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    gap: 16px;
+}
+
+.statList {
+    display: flex;
+}
